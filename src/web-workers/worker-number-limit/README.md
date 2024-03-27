@@ -1,0 +1,1 @@
+There is a limit on the number of Web Workers that can be spawned by a browser.
